@@ -12,7 +12,7 @@
 - 팀원 및 역할 
   - 최무중 : server 개발(django) 
   - 신성주 : server 개발(django)
-  - 박진우 : db설계 및 server 개발(django)
+  - 박진우 : server 개발(django)
   - 양다민 : client 개발(android)
   - 이영빈 : client 개발(android)
   
